@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgba(85,73,95,255);
+    padding-left: 2.5rem;
+    border-radius: 25px;
+    border: none;
+    width: 15%;
+}
+
+.button{
+    color: white;
+}
+

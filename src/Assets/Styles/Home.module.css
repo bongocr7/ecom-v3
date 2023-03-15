@@ -1,0 +1,7 @@
+.NavOutletContainer{
+    border-radius: 25px;
+    margin: 4rem;
+    display: flex;
+    height: 100%;
+    position: relative;
+}
