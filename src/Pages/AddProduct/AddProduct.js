@@ -129,6 +129,8 @@ function AddProduct() {
     ]);
   };
 
+  console.log("hello");
+
   const handleSize = (sizename) => {
     setSizeArr((arr) => [...arr, sizename]);
     setSizeValueArr((arr) => [
