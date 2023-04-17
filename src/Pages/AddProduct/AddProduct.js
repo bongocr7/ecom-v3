@@ -42,6 +42,8 @@ function AddProduct() {
     console.log(updatedformobj);
   }; */
 
+  console.log("feature 2");
+
   const [name, setName] = useState();
   const [money, setMoney] = useState();
   const [desc, setDesc] = useState();
